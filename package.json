@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cli-spinners": "^3.1.0",
+    "log-update": "^6.0.0",
+    "request": "^2.88.2",
+    "uuid": "^10.0.0"
+  },
+  "type": "module"
+}
